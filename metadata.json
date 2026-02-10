@@ -1,0 +1,5 @@
+{
+  "name": "MathNexus AI",
+  "description": "A high-performance scientific calculator integrated with Gemini 3 Pro for step-by-step problem solving, theorem explanations, and mathematical reasoning.",
+  "requestFramePermissions": []
+}
